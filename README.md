@@ -1,1 +1,1 @@
-# Movie-Popularity-Predictor
+# Movie-Poupularity-predictor
